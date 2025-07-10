@@ -77,6 +77,11 @@ CREATE TABLE registrations(
 );
 ```
 ---
+## Output
+Console based menu output:
+![MIni-proj1](https://github.com/user-attachments/assets/977eaf85-6cb3-4f56-b935-a3f3bc561c6d)
+
+---
 ## Contact
 
 Hope you liked the Simple Mini Project , for any questions , modifications or feedback:
